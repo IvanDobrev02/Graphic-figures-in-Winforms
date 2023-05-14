@@ -1,0 +1,34 @@
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\bin\Debug\OOP_proekt.exe.config
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\bin\Debug\OOP_proekt.exe
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\bin\Debug\OOP_proekt.pdb
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.AssemblyReference.cache
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.CanvasSettings.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormCircle.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormRectangle.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormSaveImage.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormScene.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormSquare.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormTriangle.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.Properties.Resources.resources
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.GenerateResource.cache
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.exe
+C:\Users\IvanD\Downloads\КурсоваРаботаООП\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.pdb
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\bin\Debug\OOP_proekt.exe.config
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\bin\Debug\OOP_proekt.exe
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\bin\Debug\OOP_proekt.pdb
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.AssemblyReference.cache
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.CanvasSettings.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormCircle.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormRectangle.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormSaveImage.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormScene.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormSquare.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.FormTriangle.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.Properties.Resources.resources
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.GenerateResource.cache
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\KursovaRabotaOOP.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.exe
+C:\Users\IvanD\Desktop\ТУ\Проекти - C#\Курсова Работа ООП\OOP_proekt\obj\Debug\OOP_proekt.pdb
